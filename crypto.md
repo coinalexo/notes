@@ -258,7 +258,7 @@ Upcoming exchanges that currently only offer tokens:
 ## Tracking
 
 ### Rates
-
+* https://icospeaks.com
 * [Bitcoinity Arbitrage](http://data.bitcoinity.org/markets/arbitrage)
 * [Crypto Money](https://cryptomoney.rocks/dashboard/db/globalstatistics)
 * [Crypto Radar](https://cryptoradar.co)
